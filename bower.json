@@ -1,0 +1,24 @@
+{
+  "name": "cytoscape-cubic-splines",
+  "description": "Add cubic bezier edge style with each control point specified relative to a single node",
+  "main": "cytoscape-cubic-splines.js",
+  "dependencies": {
+    "cytoscape": "^3.14.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saizai/cytoscape.js-cubic-splines.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "keywords": [
+    "cytoscape",
+    "cytoscape-extension"
+  ],
+  "license": "MIT"
+}
