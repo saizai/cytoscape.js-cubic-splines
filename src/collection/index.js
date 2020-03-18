@@ -1,6 +1,5 @@
 module.exports = function(){
-  let eles = this;
-  let cy = this.cy();
+  let cy = this;
 
   // your extension impl...
 
