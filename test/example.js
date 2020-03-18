@@ -1,7 +1,7 @@
-const chai = require('chai');
+var assert = require('assert');
 
 describe('This', function(){
   it('does that', function(){
-    expect( true ).to.be.true;
+    assert.equal(true, true);
   });
 });
